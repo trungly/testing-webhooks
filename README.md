@@ -4,3 +4,6 @@ first edit on a branch..
 another edit on a new branch
 
 more lines added to test a multi-file commit
+---
+this file keeps getting longer
+
